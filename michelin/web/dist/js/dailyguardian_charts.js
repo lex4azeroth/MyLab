@@ -12,7 +12,7 @@ function initReporTable(tableData) {
 //		}],
 		"bDestroy": true,
 //		sDom: '<"top"f<"clear">>rt<"bottom"ip<"clear">>',
-		sDom: "<'top'<'col-xs-3'f><'#mytool.col-xs-3'>>" +
+		sDom: "<'col-xs-4'><'col-xs-4'><'top'<'col-xs-3'f><'#mytool'>>" +
                     "t" +
                     "<'bottom'ip>",
 		aaSorting: [
